@@ -1,0 +1,1 @@
+# Take-n-as-input-and-print-the-sum-of-numbers-from-1-to-n.
